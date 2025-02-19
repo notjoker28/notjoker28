@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @notjoker28
-- 👀 I’m interested in learning how to code
-- 🌱 I like 2 help
-
+- 👋 Kick.com/notjoker || twitch.tv/nnotjoker 
+- 👀 Timezone AEST
  
 
 <!---
